@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="143" it="0" lt="142" ct="85" ts="1570094006303" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9461" sby="132" ng="1" na="1">
+  <java.net.URL>http://169.38.76.110:4200/auth/login</java.net.URL>
+</httpSample>
+
+<httpSample t="130" it="0" lt="130" ct="74" ts="1570095062874" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="9461" sby="132" ng="1" na="1">
+  <java.net.URL>http://169.38.76.110:4200/auth/login</java.net.URL>
+</httpSample>
+
+</testResults>
